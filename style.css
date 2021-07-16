@@ -9,6 +9,14 @@ html, body {
     background-color: rgb(240, 228, 240);
 }
 
+.container {
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+
 .header, .footer {
     display: flex;
     background-color: rgb(102, 126, 161);
@@ -80,5 +88,35 @@ a {
 #welcome {
     width: 450px;
     margin-top: 50px;
+}
+
+.footer {
+    margin-top: auto;
+    height: 50px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.footer-text {
+    padding-right: 50px;
+}
+
+.container-about {
+    display: flex;
+    margin-top: 100px;
+    
+
+
+}
+
+#foto {
+    width: 600px;
+    margin-left: 300px;
+    
+}
+
+.about {
+    margin-left: 100px;
+    width: 400px;
 }
 

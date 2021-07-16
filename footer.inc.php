@@ -1,4 +1,7 @@
 <footer class="footer">
-    sfsdfsd
-
+    <p class="footer-text">
+        <?php 
+            echo 'Copyright &copy ' . $name . ' ' . $surname . ' ' . $thisYear;
+        ?>    
+    </p> 
 </footer>

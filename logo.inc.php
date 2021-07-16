@@ -1,3 +1,3 @@
 <div class="logo">
-    <img src="./img/odf.svg" alt="logo">
+    <a href="index.php"><img src="./img/odf.svg" alt="logo"></a>
 </div>
