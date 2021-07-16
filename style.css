@@ -120,3 +120,22 @@ a {
     width: 400px;
 }
 
+.example {
+    width: 220px;
+    margin-left: 30px;
+}
+
+.block-example {
+    display: inline-block;
+    margin-top: 50px;        
+}
+
+.works {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contacts {
+    margin: 30px;
+}

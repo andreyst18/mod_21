@@ -6,4 +6,7 @@
     $city = 'New York';
     $age = 30;
     $profession = 'photographer';
+    $telefone = '038-451-487-21';
+    $email = 'sfsd@mail.su'
+
 ?>
